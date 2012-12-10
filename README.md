@@ -1,0 +1,4 @@
+djkservice
+==========
+
+WebService für Vereinsmitgliederverwaltung
